@@ -1,0 +1,6 @@
+{
+  "name": "记言 Todo (VoxFlow)",
+  "description": "同步系统通话记录与授权通知，提取待办并生成 Obsidian 笔记，支持英语语音识别与本地模型增强",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

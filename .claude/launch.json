@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "voxflow-dev",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-lc", "PORT=3010 exec npm run dev"],
+      "port": 3010
+    }
+  ]
+}

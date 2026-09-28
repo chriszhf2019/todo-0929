@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">记言 Todo</string>
+    <string name="title_activity_main">记言 Todo</string>
+    <string name="package_name">com.voxflow.todo</string>
+    <string name="custom_url_scheme">com.voxflow.todo</string>
+    <string name="notification_listener_name">记言 Todo 系统信息捕获</string>
+    <string name="accessibility_service_name">记言 Todo 屏幕内容读取</string>
+    <string name="accessibility_service_description">在你主动使用前台聊天应用时，读取当前屏幕可见文字并保存到本机；节点读取不到时使用离线 OCR 兜底。不会读取后台历史消息或其他应用数据库。</string>
+</resources>
